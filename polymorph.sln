@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOveridding", "noOveriddin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\noPewarisan.vcxproj", "{A0785370-8B00-43EB-AF1E-CB02C33EABBB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enkapsulasi", "Enkapsulasi\Enkapsulasi.vcxproj", "{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{A0785370-8B00-43EB-AF1E-CB02C33EABBB}.Release|x64.Build.0 = Release|x64
 		{A0785370-8B00-43EB-AF1E-CB02C33EABBB}.Release|x86.ActiveCfg = Release|Win32
 		{A0785370-8B00-43EB-AF1E-CB02C33EABBB}.Release|x86.Build.0 = Release|Win32
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Debug|x64.ActiveCfg = Debug|x64
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Debug|x64.Build.0 = Debug|x64
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Debug|x86.Build.0 = Debug|Win32
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Release|x64.ActiveCfg = Release|x64
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Release|x64.Build.0 = Release|x64
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Release|x86.ActiveCfg = Release|Win32
+		{1D280801-589B-4FCB-B7AE-8C7D6F39F7DB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
