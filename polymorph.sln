@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorph", "polymorph\polymorph.vcxproj", "{5A721507-F02C-4C8E-ACCE-570C7F225A9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOveridding", "noOveridding\noOveridding.vcxproj", "{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5A721507-F02C-4C8E-ACCE-570C7F225A9B}.Release|x64.Build.0 = Release|x64
 		{5A721507-F02C-4C8E-ACCE-570C7F225A9B}.Release|x86.ActiveCfg = Release|Win32
 		{5A721507-F02C-4C8E-ACCE-570C7F225A9B}.Release|x86.Build.0 = Release|Win32
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Debug|x64.ActiveCfg = Debug|x64
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Debug|x64.Build.0 = Debug|x64
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Debug|x86.Build.0 = Debug|Win32
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Release|x64.ActiveCfg = Release|x64
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Release|x64.Build.0 = Release|x64
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Release|x86.ActiveCfg = Release|Win32
+		{4371CAE5-001A-4C02-AF26-9E5A5E1E305A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
